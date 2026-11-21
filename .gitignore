@@ -18,4 +18,5 @@ flagged/
 
 # MNIST ham veri dosyaları (her seferinde indirilebilir)
 data/
-*.gzphotos/
+*.gz
+photos/
