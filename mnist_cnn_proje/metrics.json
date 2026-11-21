@@ -1,0 +1,19 @@
+{
+  "test_accuracy": 0.9919999837875366,
+  "test_loss": 0.02826647274196148,
+  "macro_precision": 0.9919556918897005,
+  "macro_recall": 0.991907617540669,
+  "macro_f1": 0.9919138870644828,
+  "best_val_accuracy": 0.9928333163261414,
+  "train_time_sec": 822.0344214439392,
+  "inference_ms_single": 9.81716040500828,
+  "inference_ms_per_image_batch": 0.5148701578999862,
+  "params": 467818,
+  "epochs": 10,
+  "batch": 128,
+  "lr": 0.001,
+  "n_train": 54000,
+  "n_val": 6000,
+  "n_test": 10000,
+  "tf_version": "2.21.0"
+}

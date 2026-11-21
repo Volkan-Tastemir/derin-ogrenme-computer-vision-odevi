@@ -1,0 +1,21 @@
+# Sanal ortam
+venv/
+.venv/
+
+# Python derleme dosyaları
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Gradio geçici dosyaları
+flagged/
+.gradio/
+
+# MNIST ham veri dosyaları (her seferinde indirilebilir)
+data/
+*.gz

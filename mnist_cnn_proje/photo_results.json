@@ -1,0 +1,111 @@
+{
+  "photos": [
+    {
+      "file": "IMG_4819.jpg",
+      "truth": "30875590002",
+      "pred": "30875590002",
+      "n_digits": 11,
+      "n_segmented": 11,
+      "digit_correct": 11,
+      "exact": true,
+      "ms": 168.27122900008362,
+      "min_conf": 0.9991990923881531,
+      "wrong": []
+    },
+    {
+      "file": "IMG_4820.jpg",
+      "truth": "30875590003",
+      "pred": "30875590003",
+      "n_digits": 11,
+      "n_segmented": 11,
+      "digit_correct": 11,
+      "exact": true,
+      "ms": 68.26955099995757,
+      "min_conf": 0.999862551689148,
+      "wrong": []
+    },
+    {
+      "file": "IMG_4822.jpg",
+      "truth": "5840578867",
+      "pred": "5840578867",
+      "n_digits": 10,
+      "n_segmented": 10,
+      "digit_correct": 10,
+      "exact": true,
+      "ms": 217.84135799998694,
+      "min_conf": 0.7296838760375977,
+      "wrong": []
+    },
+    {
+      "file": "IMG_4823.jpg",
+      "truth": "7330038818666139",
+      "pred": "9330038898000938",
+      "n_digits": 16,
+      "n_segmented": 16,
+      "digit_correct": 9,
+      "exact": false,
+      "ms": 42.376327000056335,
+      "min_conf": 0.6758211851119995,
+      "wrong": [
+        [
+          1,
+          "7",
+          "9",
+          0.676
+        ],
+        [
+          9,
+          "1",
+          "9",
+          0.811
+        ],
+        [
+          11,
+          "6",
+          "0",
+          0.98
+        ],
+        [
+          12,
+          "6",
+          "0",
+          0.976
+        ],
+        [
+          13,
+          "6",
+          "0",
+          0.849
+        ],
+        [
+          14,
+          "1",
+          "9",
+          0.908
+        ],
+        [
+          16,
+          "9",
+          "8",
+          0.999
+        ]
+      ]
+    },
+    {
+      "file": "IMG_4824.jpg",
+      "truth": "6320431",
+      "pred": "6320431",
+      "n_digits": 7,
+      "n_segmented": 7,
+      "digit_correct": 7,
+      "exact": true,
+      "ms": 79.36595199998919,
+      "min_conf": 0.8234221339225769,
+      "wrong": []
+    }
+  ],
+  "total_digits": 55,
+  "correct_digits": 48,
+  "digit_accuracy": 0.8727272727272727,
+  "exact_photos": 4
+}
